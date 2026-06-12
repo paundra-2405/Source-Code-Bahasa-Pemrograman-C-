@@ -1,2 +1,2 @@
-# Source-Code-Bahasa-Pemrograman-C-
-SC C++
+# Source-Code-Bahasa-Pemrograman-C++_Python
+SC C++, Python
